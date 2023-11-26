@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @LinnkidChen
-- BUPT CS 2023
-- currently working on CNN and RNN
-- love theatre and play
+- Bachelor of BUPT CS 2023
+- USYD Master of CS 2024S1
+- currently looking for internships in Sydney
+- expertise in Python and C++, learning go.
+- love theatre and musicals!
 - contact: linnkid.chen@gmail.com
 
 ---
-- BUPT 2023届 计算机科学与技术在读
-- 最近在研究CNN和RNN
+- BUPT 2023届 计算机科学与技术毕业
+- USYD 24S1 计算机硕士在读
+- 熟练使用C++和Python，目前在学go
 - 热爱剧场！
 - 邮箱：linnkid.chen@gmail.com
 <!---
