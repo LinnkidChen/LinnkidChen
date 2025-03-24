@@ -8,7 +8,7 @@
 - 💻 Expertise in Python, C, C++, Javascript
 - 🎭 Theatre and musical enthusiast
 - 📧 Contact: linnkid@yahoo.com
-- 
+
 ## Skills
 - Proficient in C++ and Python
 - Full-stack development (Vue.js, Flask, NextJS)
