@@ -25,7 +25,7 @@
    - Implemented with Javascript, NextJS and Langgraph(Javascript)
    - Generate Exam/Practice question for students by submitting their slides.
    - Powered by generative AI
-   - [GitHub Repository]([https://github.com/LinnkidChen/Simple-DNS-implementation-by-C](https://github.com/wchwawa/exam-paper-generator)
+   - [GitHub Repository](https://github.com/wchwawa/exam-paper-generator)
 3. **Local DNS Server**
    - Implemented in C
    - Features: DNS request redirection and caching
